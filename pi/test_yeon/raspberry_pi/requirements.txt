@@ -1,0 +1,7 @@
+numpy
+tensorflow
+tensorflow_hub
+sounddevice
+pyserial
+scipy
+pandas
