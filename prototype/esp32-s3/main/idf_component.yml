@@ -1,0 +1,4 @@
+dependencies:
+  espressif/esp32_s3_korvo_2:
+    version: 5.0.0
+  espressif/esp-sr: ^2.5.5
